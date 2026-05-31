@@ -1,12 +1,15 @@
-dibspdfhbvcskjudnvcmk sdc 
-Dc
-SDvcsadc
-DC
-VC
-sdC
-dc
-dc
-sdC
-sdcs
-dC
+#!/bin/bash
+
+#this is the script to install nginx on linux server
+
+sudo apt update
+sudo apt install nginx
+
+if [  $? -eq 0 ];
+then
+  echo "the nginx insatlled"
+else
+  echo "the operation is failed"
+fi
+
 
