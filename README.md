@@ -10,12 +10,12 @@
 Senior Technical Support Lead | DevOps | SRE | Middleware Engineer
 
 🚀 Building automation
-☁️ AWS | Docker | Kubernetes
-⚙️ Jenkins | GitHub Actions | Terraform | Ansible
-🐧 Linux | Bash | Python
-📊 Splunk | Grafana | Dynatrace
-🌐 Tomcat | WebLogic | WebSphere | Nginx | Apache
-🗄️ PostgreSQL | Oracle | SQL
+# ☁️ AWS | Docker | Kubernetes
+# ⚙️ Jenkins | GitHub Actions | Terraform | Ansible
+# 🐧 Linux | Bash | Python
+# 📊 Splunk | Grafana | Dynatrace
+# 🌐 Tomcat | WebLogic | WebSphere | Nginx | Apache
+# 🗄️ PostgreSQL | Oracle | SQL
 
 ## Technical Skills
 
