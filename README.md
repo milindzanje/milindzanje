@@ -49,50 +49,77 @@ LinkedIn:https://www.linkedin.com/in/milind-zanje-aa1568bb/
 Email:milindzanje7654@yahoo.com
 ## 🛠️ Tech Stack
 
-### 💻 Operating Systems
+## 💻 Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell" />
 </p>
 
 ---
-### 🌐 Version Control & Collaboration
+
+## 🌐 Version Control & Collaboration
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
 ---
-### ☁️ Cloud & DevOps
 
+## ☁️ Cloud Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,nginx,maven,postgres" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
-### 🗄️ DATABASE AND MONITORING
+---
 
+## 🚀 DevOps, CI/CD & Infrastructure as Code
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,Mysql,mongodb,redis,splunk,prometheus,grafana,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions,maven,gradle" />
 </p>
 
+---
 
-### 👨‍💻 Programming & Scripting
+## 🖥️ Web Servers & Application Servers
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
+
+**Also Experienced In:** Tomcat • WebLogic • WebSphere • Apache HTTP Server • JBoss
+
+---
+
+## 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+---
+
+## 📊 Monitoring & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+</p>
+
+**Also Experienced In:** Splunk • Dynatrace • Nagios • Geneos • CloudWatch
+
+---
+
+## 👨‍💻 Programming & Scripting
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,bash,powershell" />
 </p>
 
 ---
 
-### 🚀 DevOps, CI/CD & Infrastructure as Code
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,maven,gradle,github-Actions, gitlab" />
-</p>
+## 🔐 Networking & Security
+
+**Technologies:** SSL/TLS • Load Balancers • Reverse Proxy • DNS • TCP/IP • SSH • VPN
+
 ---
 
-### 📊 Monitoring & Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</p>
----
+## ⚙️ Automation & Configuration Management
 
+**Tools:** Ansible • Shell Scripting • GitHub Actions • Jenkins Pipelines • Cron Jobs • YAML
+
+---
 
 
 
