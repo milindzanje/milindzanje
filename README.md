@@ -1,4 +1,4 @@
-# Hi, I'm Milind Zanje 👋
+
 <h1 align="center">Hi 👋, I'm Milind Zanje</h1>
 
 <p align="center">
