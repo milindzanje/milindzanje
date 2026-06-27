@@ -58,11 +58,11 @@ Email:milindzanje7654@yahoo.com
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=Linux, Networking,aws,gcp,shell scripting,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
 </p>
 
 ### 🗄️ Databases & Monitoring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=postgres,Mysql,mongodb,redis,splunk,prometheus,grafana,elasticsearch" />
 </p>
