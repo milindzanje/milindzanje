@@ -49,29 +49,30 @@ LinkedIn:https://www.linkedin.com/in/milind-zanje-aa1568bb/
 Email:milindzanje7654@yahoo.com
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-
+### 💻 Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash" />
 </p>
 
+---
+### 🌐 Version Control & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+---
 ### ☁️ Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,nginx,maven,postgres" />
 </p>
-
-### 🗄️ Databases & Monitoring
+---
+### 🗄️ DATABASE AND MONITORING
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,Mysql,mongodb,redis,splunk,prometheus,grafana,elasticsearch" />
 </p>
 ## 🛠️ Tech Stack
-
-### 💻 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash" />
-</p>
 
 ---
 
@@ -82,94 +83,25 @@ Email:milindzanje7654@yahoo.com
 
 ---
 
-### 🌐 Version Control & Collaboration
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
-
----
-
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
-
----
-
 ### 🚀 DevOps, CI/CD & Infrastructure as Code
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,maven,gradle" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,maven,gradle,github-Actions, gitlab" />
 </p>
 
 ---
 
-### 🌐 Web Servers & Middleware
-- Apache HTTP Server
-- Nginx
-- Tomcat
-- Oracle WebLogic
-- IBM WebSphere
 
----
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-**Also Experienced With:**
-- Oracle Database
-- Microsoft SQL Server
-
----
 
 ### 📊 Monitoring & Observability
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-**Enterprise Tools:**
-- Splunk
-- Dynatrace
-- CloudWatch
-- Nagios
 
----
 
-### 📬 Messaging & Scheduling
-- Kafka
-- Solace
-- RabbitMQ
-- Control-M
 
----
 
-### 🛠️ ITSM & Collaboration
-- ServiceNow
-- Jira
-- Confluence
 
----
 
-### 🔐 Networking & Security
-- TCP/IP
-- DNS
-- Load Balancers
-- Reverse Proxy
-- SSL/TLS
-- SSH
-- Firewall Basics
 
----
-
-### ☁️ Core Expertise
-- Production Support (L2/L3)
-- Site Reliability Engineering (SRE)
-- Incident Management
-- Root Cause Analysis (RCA)
-- Change & Release Management
-- CI/CD Pipeline Automation
-- Infrastructure Automation
-- Performance Tuning
-- Application Deployment
-- Middleware Administration
