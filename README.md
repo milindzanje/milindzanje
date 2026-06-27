@@ -1,22 +1,17 @@
 # Hi, I'm Milind Zanje 👋
 
+
+👋 Hi, I'm Milind Zanje
+
 Senior Technical Support Lead | DevOps | SRE | Middleware Engineer
 
-## About Me
-
-✔ 9+ Years of IT Experience
-✔ Linux Administration
-✔ Production Support
-✔ AWS Cloud
-✔ Jenkins CI/CD
-✔ Kubernetes
-✔ Docker
-✔ Terraform
-✔ Ansible
-✔ Splunk
-✔ Dynatrace
-✔ PostgreSQL
-✔ Middleware Administration
+🚀 Building automation
+☁️ AWS | Docker | Kubernetes
+⚙️ Jenkins | GitHub Actions | Terraform | Ansible
+🐧 Linux | Bash | Python
+📊 Splunk | Grafana | Dynatrace
+🌐 Tomcat | WebLogic | WebSphere | Nginx | Apache
+🗄️ PostgreSQL | Oracle | SQL
 
 ## Technical Skills
 
