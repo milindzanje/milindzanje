@@ -66,15 +66,13 @@ Email:milindzanje7654@yahoo.com
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,aws,gcp,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,nginx,maven,postgres" />
 </p>
----
+
 ### 🗄️ DATABASE AND MONITORING
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,Mysql,mongodb,redis,splunk,prometheus,grafana,elasticsearch" />
 </p>
-## 🛠️ Tech Stack
 
----
 
 ### 👨‍💻 Programming & Scripting
 <p>
@@ -87,17 +85,13 @@ Email:milindzanje7654@yahoo.com
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,maven,gradle,github-Actions, gitlab" />
 </p>
-
 ---
-
-
-
 
 ### 📊 Monitoring & Observability
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
-
+---
 
 
 
