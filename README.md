@@ -87,32 +87,7 @@
 `Git` `GitHub` `Bitbucket` `Artifactory` `CI/CD` `IaC`
 
 ---
-## 🎓 Certifications
-
-### 🏆 DevOps Certification
-
-**DevOps Engineering Certification**
-🔗 [Verify Credential](https://credentials.certdirectory.io/verify/CRD-9MMYR7KT)
-
-> Credential ID: `CRD-9MMYR7KT`
-```text
-$ cat certifications.json
-
-{
-  "certifications": [
-    {
-      "name": "DevOps Engineering Certification",
-      "credential_id": "CRD-9MMYR7KT",
-      "verification": "https://credentials.certdirectory.io/verify/CRD-9MMYR7KT"
-    }
-  ]
-}
 ```
-
-🏆 **DevOps Engineering Certification**
-[🔗 Verify Credential](https://credentials.certdirectory.io/verify/CRD-9MMYR7KT)
-
-
 ### 🐍 Scripting & Development
 
 <p>
@@ -121,3 +96,10 @@ $ cat certifications.json
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img sr
 ```
+## 🎓 Certifications
+
+### 🏆 DevOps Certification
+
+**DevOps Engineering Certification** · [Verify Credential](https://credentials.certdirectory.io/verify/CRD-9MMYR7KT)
+
+> Credential ID: `CRD-9MMYR7KT`
