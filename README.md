@@ -87,6 +87,31 @@
 `Git` `GitHub` `Bitbucket` `Artifactory` `CI/CD` `IaC`
 
 ---
+## 🎓 Certifications
+
+### 🏆 DevOps Certification
+
+**DevOps Engineering Certification**
+🔗 [Verify Credential](https://credentials.certdirectory.io/verify/CRD-9MMYR7KT)
+
+> Credential ID: `CRD-9MMYR7KT`
+```text
+$ cat certifications.json
+
+{
+  "certifications": [
+    {
+      "name": "DevOps Engineering Certification",
+      "credential_id": "CRD-9MMYR7KT",
+      "verification": "https://credentials.certdirectory.io/verify/CRD-9MMYR7KT"
+    }
+  ]
+}
+```
+
+🏆 **DevOps Engineering Certification**
+[🔗 Verify Credential](https://credentials.certdirectory.io/verify/CRD-9MMYR7KT)
+
 
 ### 🐍 Scripting & Development
 
