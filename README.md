@@ -15,6 +15,12 @@
 
 <br><br>
 
+<a href="https://credentials.certdirectory.io/verify/CRD-9MMYR7KT"><img src="https://img.shields.io/badge/Certified-DevOps%20Engineering-2E7D32?style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/milind-zanje-aa1568bb"><img src="https://img.shields.io/badge/LinkedIn-Milind%20Zanje-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=milindzanje&style=for-the-badge&color=blue" />
+
+<br><br>
+
 **Building reliable platforms, automating operations, and keeping production systems observable.**
 
 </div>
@@ -87,19 +93,27 @@
 `Git` `GitHub` `Bitbucket` `Artifactory` `CI/CD` `IaC`
 
 ---
-```
+
 ### 🐍 Scripting & Development
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img sr
-```
-## 🎓 Certifications
+</p>
+
+---
+
+# 🎓 Certifications
 
 ### 🏆 DevOps Certification
 
 **DevOps Engineering Certification** · [Verify Credential](https://credentials.certdirectory.io/verify/CRD-9MMYR7KT)
 
 > Credential ID: `CRD-9MMYR7KT`
+
+---
+
+# 🤝 Connect
+
+<a href="https://linkedin.com/in/milind-zanje-aa1568bb"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
